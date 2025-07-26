@@ -140,7 +140,7 @@ porta2_aberta = False
 # Variáveis
 porta_rect = pygame.Rect(340, 200, 120, 200)
 porta_aberta = False
-zoom_scale, zoom_step, max_zoom = 1.0, 0.01, 2.5
+zoom_scale, zoom_step, max_zoom = 1.0, 0.02, 2.5
 mostrar_brilho = True
 mostra_instrucao = True
 mostra_instrucao_fase2 = True
